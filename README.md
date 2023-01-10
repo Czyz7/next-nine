@@ -1,3 +1,16 @@
+## MIT's Full Stack Development Capstone project
+- I chose to do the Bad Bank capstone option.
+- App was made with the React Framework
+- Front End with React & Node
+- Middleware API, SSR & CSR
+- Backend with Express, OAuth2, & MOngoDB
+- Dockerized
+- Deployed onto 
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
